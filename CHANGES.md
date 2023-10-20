@@ -1,6 +1,6 @@
-# Known Issues
+*!Known Issues
 
- * Perl formatting is really crappy. Partly because the author is lazy and partly
+ # Perl formatting is really crappy. Partly because the author is lazy and partly
    because Perl is [hard](http://www.perlmonks.org/?node_id=663393) to parse.
  * On some browsers, `<code>` elements with newlines in the text which use CSS
    to specify `white-space:pre` will have the newlines improperly stripped if
@@ -135,3 +135,4 @@
 ## 28 Apr 2015
 
  * Migrated to Github
+ 
