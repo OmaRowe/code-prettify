@@ -1,4 +1,4 @@
-# Status: Archived
+*#Status: Archived
 
 ![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
 
@@ -246,3 +246,4 @@ general feedback.
 [5]: http://wordpress.org/support/topic/125038
 [6]: https://raw.githack.com/google/code-prettify/master/tests/prettify_test.html#issue22
 [7]: http://groups.google.com/group/js-code-prettifier
+ 
