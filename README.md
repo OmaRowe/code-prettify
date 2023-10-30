@@ -1,4 +1,4 @@
-*#Status: Archived
+! Status:!Archived
 
 ![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
 
@@ -6,9 +6,9 @@ This repository has been archived and is no longer maintained.
 
 ---
 
-# JavaScript code prettifier
+  JavaScript code prettifier
 
-Announcement: [**Action required** *rawgit.com* is going away](https://groups.google.com/forum/#!topic/js-code-prettifier/IFHev_kLm30).
+Announcement: [ *Action required** *rawgit.com* is going away](https://groups.google.com/forum/#!topic/js-code-prettifier/IFHev_kLm30).
 
 An embeddable script that makes source-code snippets in HTML prettier.
 
@@ -246,4 +246,4 @@ general feedback.
 [5]: http://wordpress.org/support/topic/125038
 [6]: https://raw.githack.com/google/code-prettify/master/tests/prettify_test.html#issue22
 [7]: http://groups.google.com/group/js-code-prettifier
- 
+  
